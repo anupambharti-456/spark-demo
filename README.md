@@ -1,7 +1,5 @@
-spark
+spark-demo
 ===================================
-job运行命令
--
 
 ### 打包命令
 mvn clean package -P prd
